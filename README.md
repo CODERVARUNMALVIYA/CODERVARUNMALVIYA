@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="developer.img" alt="MohitGupta62" /> </p>
 
-- 🔭 I’m currently working on **E-commerce**
+- 🔭 I’m currently working on **social media add new features**
 
 - 🌱 I’m currently learning **Next.js**
 
